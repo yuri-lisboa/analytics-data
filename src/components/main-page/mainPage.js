@@ -1,6 +1,8 @@
+import Portifolio from '../main-page/portifolio/portifolio.vue';
+
 export default {
     name: 'MainPage',
-    props: {
-      msg: String
+    components: {
+      Portifolio
     }
   }

@@ -1,7 +1,10 @@
 <template>
   <div id="mainPage">
-    <img alt="Vue logo" src="../../assets/logo.png">
-      <h1 class="alert alert-success text-center p-3"> Funcionou</h1>
+   <div> 
+     <img alt="Vue logo" src="../../assets/logo.png">
+     <h1 class="alert alert-success text-center p-3"> Funcionou</h1>
+   </div>
+  <Portifolio></Portifolio>
   </div>
 </template>
 
